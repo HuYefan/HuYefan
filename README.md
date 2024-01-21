@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuYefan
-- 👀 I’m interested in system immunology.
-- 🌱 I’m currently learning synthetic immunology.
+- 👀 I’m interested in quatitative immunology.
+- 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on neoantigen or viral fitness.
 - 📫 Contact via yefanhu@connect.hku.hk.
 
